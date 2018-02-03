@@ -1,7 +1,3 @@
-Aller à la [Configuration et initialisation](./README.md)
-
-Aller au [Mini projet](./PROJECT.md)
-
 # Symfony
 
 ## Le fameux Hello World !

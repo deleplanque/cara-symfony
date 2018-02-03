@@ -1,5 +1,3 @@
-Aller à la [Première partie](./BASIS.md)
-
 # Symfony
 
 ## Configuration et initialisation
@@ -54,5 +52,5 @@ $ php bin/console server:run
 
 A présent, vous pourrez accéder à votre application à l'URL suivante : http://127.0.0.1:8000
 
-Nous allons passer à la première partie du TP : [Première Partie >](./BASIS.md)
+Nous allons passer à la [première partie](./BASIS.md) du TP.
 
