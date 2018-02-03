@@ -22,7 +22,7 @@ $ mv composer.phar /usr/local/bin/composer
 
 ### Initialisation du projet Symfony
 
-Maintenant que Composer est installé, nous pouvons désormais installer Symfony. Pour créer un projet Symfony, lancer la commande suivante (vous pouvez changer "my-projet" en un autre nom) :
+Maintenant que Composer est installé, nous pouvons désormais installer Symfony. Pour créer un projet Symfony, lancer la commande suivante (vous pouvez changer "my-project" en un autre nom) :
 
 ```bash
 # Pour ceux qui sont sur leur machine

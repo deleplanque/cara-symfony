@@ -10,9 +10,9 @@ Afficher le message en utilisant le moteur de template Twig
 
 ## Un autre grand classique
 
-Affichons maintenant le message "Hello Jean !".
+Affichons maintenant le message "Hello {un_nom} !".
 
-Ce message sera afficher à l'URL http://127.0.0.1/{le_nom}.
+Ce message sera afficher à l'URL http://127.0.0.1/{un_nom}.
 
 ## Appel à une base de données
 
@@ -26,5 +26,5 @@ Vous pouvez aller sur ce [site](https://www.mockaroo.com/) pour générer des do
 
 ## Est-ce vraiment la fin?
 
-Vous avez enfin les bases pour faire le [mini projet](./PROJECT.md).
+Vous avez enfin ce qu'il faut pour faire le [mini projet](./PROJECT.md).
 
