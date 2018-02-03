@@ -1,5 +1,5 @@
-< [Configuration et initialisation](./README.md)
-> [Mini projet](./PROJECT.md)
+Aller à la [Configuration et initialisation](./README.md)
+Aller au [Mini projet](./PROJECT.md)
 
 # Symfony
 
