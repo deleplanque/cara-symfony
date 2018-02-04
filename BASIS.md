@@ -18,7 +18,7 @@ Ce message sera afficher à l'URL http://127.0.0.1/{un_nom}.
 
 Le but ici est d'appeler une base de données et d'afficher les lignes d'une table sur l'URL http://127.0.0.1:8000/personne. En voici le MLD :
 
-PERSONNE(__ID__, FISTNAME, LASTNAME, EMAIL, PASSWORD)
+PERSON(__ID__, FISTNAME, LASTNAME, EMAIL, PASSWORD)
 
 Symfony utilise Doctrine ORM pour travailler avec une base de données, vous avez toutes les informations [ici](https://symfony.com/doc/current/doctrine.html)
 

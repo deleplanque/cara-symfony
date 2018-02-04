@@ -4,7 +4,7 @@
 
 L'objectif de ce mini-projet est de créer un service d'authentification.
 
-Les données seront traitées dans la table PERSONNE précédemment créée.
+Les données seront traitées dans la table PERSON précédemment créée.
 
 La page de connexion doit être disponible à l'URL : http://127.0.0.1:8000/connexion .
 
