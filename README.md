@@ -30,7 +30,7 @@ Maintenant que Composer est installé, nous pouvons désormais installer Symfony
 $ composer create-project symfony/website-skeleton my-project
 
 # Pour ceux qui sont sur les machines de l'université
-$ ./composer create-project symfony/website-skeleton my-project
+$ ./composer.phar create-project symfony/website-skeleton my-project
 ```
 
 It works ! Le projet Symfony a bien été créé. Aller dans ce répertoire et paramétrons l'environnement de développement
@@ -42,7 +42,7 @@ $ cd my-project
 $ composer require server --dev
 
 # Pour ceux qui sont sur les machines l'université, vous devrez ré-installer Composer dans ce dossier, puis lancer la commande suivante :
-$ ./composer require server --dev
+$ ./composer.phar require server --dev
 ```
 
 Le lancement du serveur se fait via cette commande :
